@@ -13,4 +13,4 @@ Contributions are always welcome. Feel free to contribute 😊
 
 With Regards 
 
-.. _Developer Team: https://t.me/Keralasbots/
+.. Developer Team: https://t.me/Keralasbots/
