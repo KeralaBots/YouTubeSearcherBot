@@ -11,4 +11,6 @@ Contributions
 Contributions are always welcome. Feel free to contribute 😊
 
 
-With Regards .. _👷 Developer Team.: https://t.me/Keralasbots
+With Regards 
+.. _👷 Developer Team: 
+https://t.me/Keralasbots
