@@ -1,0 +1,25 @@
+{
+  "name": "yt-searcher-bot",
+  "version": "1.0.0",
+  "description": "Node.js Telegraf (Telegram) bot to share YouTube videos.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "promise": "^8.0.1",
+    "request": "^2.81.0",
+    "telegraf": "^3.8.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KeralaBots/YouTubeSearcherBot.git"
+  },
+  "author": "Anandpskerala",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KeralaBots/YouTubeSearcherBot/issues"
+  },
+  "homepage": "https://github.com/KeralaBots/YouTubeSearcherBot#readme"
+}
